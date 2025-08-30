@@ -1,10 +1,10 @@
-# z-language README
+# Tarnish Extension
 
-Adds primitive language support for Z
+Adds primitive language support for my language: Tarnish
 
 ## Features
 
-Adds primitive language support for Z
+Adds primitive language support for Tarnish
 
 ## Requirements
 
