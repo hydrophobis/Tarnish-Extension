@@ -1,10 +1,10 @@
 {
-  "name": "z-language",
-  "displayName": "Z Language",
+  "name": "tarnish-syntax",
+  "displayName": "Tarnish",
   "publisher": "hydrophobis",
   "description": "",
-  "version": "1.1.0",
-  "repository": {"url": "https://github.com/hydrophobis/Z-Extension"},
+  "version": "1.2.0",
+  "repository": {"url": "https://github.com/hydrophobis/Tarnish-Extension"},
   "engines": {
     "vscode": "^1.103.0"
   },
@@ -40,9 +40,9 @@
     ],
     "grammars": [
       {
-        "language": "z",
-        "scopeName": "source.z",
-        "path": "./syntaxes/z.tmLanguage.json"
+        "language": "tarnish",
+        "scopeName": "source.rn",
+        "path": "./syntaxes/tarnish.tmLanguage.json"
       }
     ]
   },
